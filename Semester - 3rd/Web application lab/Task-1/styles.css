@@ -1,0 +1,43 @@
+body {
+    
+    background-color: #d5ecec;
+   
+}
+header {
+    
+    background-color:  #6AB187;
+    color:rgb(247, 250, 249);
+    
+    text-align: center;
+}
+
+h1 {
+    font-size:60px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(209, 191, 191);
+    
+}
+
+.town-image {
+    width: 100%;
+    height: auto;
+ 
+}
+pre{
+    text-align: left;
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #1c471d;
+}
+
+ol, ul {
+    margin-left: 20px;
+}
